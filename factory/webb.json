@@ -1,0 +1,9 @@
+{
+	"name": "webb",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39b1d6dc-880f-47c8-a8b4-63131488637c",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
